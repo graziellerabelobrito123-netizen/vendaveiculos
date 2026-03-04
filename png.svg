@@ -1,0 +1,19 @@
+<svg width="650" height="200" viewBox="0 0 650 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="650" height="200" fill="transparent"></rect>
+
+  <!-- Emblem Background -->
+  <circle cx="325" cy="60" r="40" fill="#F97316"></circle>
+
+  <!-- Car Line -->
+  <path d="M295 65 Q325 40 355 65" stroke="#FFFFFF" stroke-width="4" fill="none"></path>
+
+  <!-- Brand Name -->
+  <text x="325" y="140" font-size="42" font-family="Arial, sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="bold">
+    AUTO <tspan fill="#F97316">CAPITAL</tspan>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="325" y="170" font-size="15" font-family="Arial, sans-serif" fill="#D1D5DB" text-anchor="middle" letter-spacing="2">
+    VEÍCULOS SEMINOVOS
+  </text>
+</svg>
